@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @luis99duarte
 - 👀 I’m interested in music, techonology and coding. 
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on a company as a Full Stack Developer.
 - 📫 How to reach me? Just email me to luis99freitas@gmail.com
